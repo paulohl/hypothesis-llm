@@ -18,7 +18,10 @@ Non-Expert Description
 Think of teaching a child math by first letting them count pebbles, then sticks, then finally inventing the + sign to save time. Our method guides an AI through a similar journey: we start with easy puzzles and slowly make them tougher, all while squeezing the AI so it can’t store every detail. To cope, it makes up its own shorthand marks—its personal “+,” “×,” or “is older than.” By the end, the AI has a pocketful of handy mini-words that let it solve brand-new puzzles faster, much like a seasoned mathematician scribbles quick symbols instead of whole sentences.
  
 
+<img src="https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-02/hyp-02.png" width="500" height="500">
+
 ![hypothesis 02](https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-02/hyp-02.png "Curriculum-Induced Symbol Invention for Emergent Reasoning Primitives")
+
 
 How we generate hypotheses for you:
 1.	Our system digests 100 million peer-reviewed papers to build the knowledge base.
