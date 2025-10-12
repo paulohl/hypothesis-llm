@@ -31,8 +31,9 @@ Because these symbols emerge organically from data efficiency pressures rather t
 
 Think of teaching a child math by first letting them count pebbles, then sticks, then finally inventing the + sign to save time. Our method guides an AI through a similar journey: we start with easy puzzles and slowly make them tougher, all while squeezing the AI so it can’t store every detail. To cope, it makes up its own shorthand marks—its personal “+,” “×,” or “is older than.” By the end, the AI has a pocketful of handy mini-words that let it solve brand-new puzzles faster, much like a seasoned mathematician scribbles quick symbols instead of whole sentences.
  
-
-<img src="https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-02/hyp-02.png" width="600" height="600" align="CENTER">
+  <div style="text-align: center;">
+     <img src="https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-02/hyp-02.png" width="600" height="600">
+  </div>
 
 
 #### How we generate hypotheses for you:
