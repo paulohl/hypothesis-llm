@@ -29,7 +29,7 @@ Think of giving an AI a built-in Rolodex where it can jot down important facts a
 ## Non-Expert Description
 
 
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+![](https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-01/DLI-LLM.png)
 
 **How we generate hypotheses for you:**
 
