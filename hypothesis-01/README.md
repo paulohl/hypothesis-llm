@@ -28,6 +28,7 @@ Think of giving an AI a built-in Rolodex where it can jot down important facts a
 
 ## Non-Expert Description
 
+Think of giving an AI a built-in Rolodex where it can jot down important facts and instantly flip to them while talking, instead of calling another service to look things up. DLI-LLM stitches the Rolodex inside the AI’s ‘brain,’ making look-ups faster and more natural.
 
 ![](https://github.com/paulohl/hypothesis-llm/blob/main/hypothesis-01/DLI-LLM.png)
 
